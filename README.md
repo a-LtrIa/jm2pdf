@@ -55,6 +55,7 @@ reportlab    生成 PDF 文档
 - [Pillow](https://python-pillow.org/) – 图像处理
 - [ReportLab](https://www.reportlab.com/) – PDF 生成
 
+同时感谢Qwen3-Max在代码编写上提供帮助
 
 📜 许可证
 本项目采用 MIT License —— 免费用于个人或商业项目。
