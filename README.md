@@ -25,6 +25,7 @@ pip install jmcomic pillow reportlab
 
 # 2. 安装本工具（在项目根目录执行）
 pip install -e .
+```
 💡 首次使用前请确保已配置好 jmcomic（如账号、下载路径等）。
 
 ▶️ 使用方法
@@ -33,12 +34,12 @@ jm <漫画ID>
 ```
 示例：
 ```bash
-jm 1156509
+jm 123
 ```
 执行后：
 
-自动调用 jmcomic.download_album(1156509)
-在当前目录生成 1156509.pdf
+自动调用 jmcomic.download_album(123)
+在当前目录生成 123.pdf
 原始 WebP 文件夹被自动删除
 ⚙️ 依赖说明
 包    用途
