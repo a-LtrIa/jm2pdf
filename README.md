@@ -30,9 +30,11 @@ pip install -e .
 ▶️ 使用方法
 ```bash
 jm <漫画ID>
+```
 示例：
 ```bash
 jm 1156509
+```
 执行后：
 
 自动调用 jmcomic.download_album(1156509)
