@@ -47,5 +47,14 @@ Pillow    读取和转换 WebP 图片
 reportlab    生成 PDF 文档
 详见 requirements.txt
 
+## 🙏 致谢
+
+本项目依赖以下优秀的开源项目：
+
+- [JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) – 漫画下载核心
+- [Pillow](https://python-pillow.org/) – 图像处理
+- [ReportLab](https://www.reportlab.com/) – PDF 生成
+
+
 📜 许可证
 本项目采用 MIT License —— 免费用于个人或商业项目。
