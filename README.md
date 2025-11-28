@@ -1,4 +1,4 @@
-# JMComic PDF Plugin
+# jm2pdf
 
 一个轻量级 Python 插件，用于在使用 [JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) 下载漫画后，**自动将 WebP 图片合并为 PDF**，并清理原始文件夹。
 
