@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+jmcomic_pdf_cli/__init__.py
+jmcomic_pdf_cli/main.py
+jmcomic_pdf_cli.egg-info/PKG-INFO
+jmcomic_pdf_cli.egg-info/SOURCES.txt
+jmcomic_pdf_cli.egg-info/dependency_links.txt
+jmcomic_pdf_cli.egg-info/entry_points.txt
+jmcomic_pdf_cli.egg-info/requires.txt
+jmcomic_pdf_cli.egg-info/top_level.txt

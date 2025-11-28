@@ -1,0 +1,2 @@
+[console_scripts]
+jm = jmcomic_pdf_cli.main:main
